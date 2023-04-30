@@ -8,8 +8,9 @@ Self-Dev
 
 - [이도현](https://github.com/9598dohyun)
 - [추경훈](https://github.com/chuhoon)
-- [김도은]
+- [김도은](https://github.com/gardenerdoeun)
 - [정소희](https://github.com/Jeongsoheeme)
+
 
 
 ## 🏃🏽‍♀️🏃‍♂️ kick off
