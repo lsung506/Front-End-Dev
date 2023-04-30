@@ -9,7 +9,7 @@ Self-Dev
 - [이도현](https://github.com/9598dohyun)
 - [추경훈]
 - [김도은]
-- [정소희]
+- [정소희](https://github.com/Jeongsoheeme)
 
 
 ## 🏃🏽‍♀️🏃‍♂️ kick off
