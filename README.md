@@ -8,7 +8,7 @@ Self-Dev
 
 - [이도현](https://github.com/9598dohyun)
 - [추경훈]
-- [김도은]
+- [김도은](https://github.com/gardenerdoeun)
 - [정소희]
 
 
