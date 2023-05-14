@@ -7,15 +7,16 @@ Self-Dev
 ## 👨‍👩‍👦‍👦 조원
 
 - [이도현](https://github.com/9598dohyun)
-- [추경훈](https://github.com/chuhoon)
-- [김도은](https://github.com/gardenerdoeun)
+- [김태진]
+- [김영찬]
 - [정소희](https://github.com/Jeongsoheeme)
 
 
 
 ## 🏃🏽‍♀️🏃‍♂️ kick off
 
-2023.04.30 9pm ~ 9:30pm (KST) 🎄
+2023.04.30 9pm ~ 9:30pm (KST) 🎄(1차)
+2023.05.14 9pm ~ 9:30pm (KST) 🎄(2차)
 
 <br>
 
@@ -31,7 +32,7 @@ Self-Dev
 1. 해당 레포를 자신의 레포로 fork 해주세요 
 2. 공부한 내용을 정리해서 upstream으로 해당 레포로 PR 생성 (형식 자유)
 3. 각 주차별 폴더에 자기이름(숫자).md의 형식으로 깃허브 업로드
-4. 학습 중 궁금한 점 및 소통은 슬랙 채널이나 카톡을 통해 질문및 의견공유
+4. 스터디 중 디스코드로 각자의 화면공유를 틀어 놓고 진행 (공부습관 강제!)
 
 <br>
 
