@@ -10,6 +10,7 @@ Self-Dev
 - [김태진](https://github.com/kimtaejin3)
 - [김영찬]
 - [정소희](https://github.com/Jeongsoheeme)
+- [채준형](https://github.com/Develsopher)
 
 ## 🏃🏽‍♀️🏃‍♂️ kick off
 
