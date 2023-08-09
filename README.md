@@ -4,14 +4,6 @@ Self-Dev
 
 # 🔥 프론트개발자 공부습관들이기 스터디
 
-## 👨‍👩‍👦‍👦 조원
-
-- [이도현](https://github.com/9598dohyun)
-- [김태진](https://github.com/kimtaejin3)
-- [김영찬]
-- [정소희](https://github.com/Jeongsoheeme)
-- [채준형](https://github.com/Develsopher)
-
 ## 🏃🏽‍♀️🏃‍♂️ kick off
 
 2023.04.30 9pm ~ 9:30pm (KST) 🎄(1차)
