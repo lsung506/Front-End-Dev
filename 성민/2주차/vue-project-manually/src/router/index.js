@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/HomeView.vue'
-import DataInputNumber from '../views/DataInputNumber.vue'
+import DataBindingRadio from '../views/DataBindingRadio.vue'
 
 const routes = [
   {
@@ -17,9 +17,9 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
   },
   {
-    path:'/DataInputNumber',
-    name:'DataInputNumber',
-    component: DataInputNumber
+    path:'/DataBindingRadio',
+    name:'DataBindingRadio',
+    component: DataBindingRadio
   }
 ]
 

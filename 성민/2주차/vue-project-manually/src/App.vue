@@ -1,7 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/DataInputNumber">Databinding</router-link>
+    <router-link to="/DataBindingRadio">DataBindingRadio</router-link>
   </nav>
   <router-view/>
 </template>
